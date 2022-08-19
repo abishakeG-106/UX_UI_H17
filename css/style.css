@@ -7,23 +7,31 @@
     padding: 1%;
     text-align: center;
 }
-#nav {
+nav {
     width: 73%;
     padding: 1%;
 }
-#ul {
+ul {
     width: 50%;
     margin-left: auto;
 }
 .heroimg {
-    height: 600px;
+    height: 100px;
     padding: 25px;
 }
 .content {
     width: 500px;
     margin: 0 auto;
 }
-#footer {
+footer {
     background-color: #373738;
 
+}
+
+.Image1 {
+    width: 50px;
+}
+
+.Image2 {
+    width: 100px;
 }
