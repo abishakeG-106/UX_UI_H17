@@ -25,13 +25,29 @@ ul {
 }
 footer {
     background-color: #373738;
-
 }
-
+footer p {
+    width: 65%;
+    vertical-align: top;
+    display: inline-block;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 25px;
+    text-align: right;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #fff;
+}
+footer ul{
+    width: 50%;
+}
 .Image1 {
     width: 50px;
 }
 
 .Image2 {
-    width: 100px;
+    width: 300px;
+    padding-left: 80px;
 }
